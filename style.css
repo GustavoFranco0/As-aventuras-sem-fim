@@ -2,4 +2,14 @@ body{
     background-color: darkcyan;
     color:aliceblue;
     font-family: "Archivo Black", sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:700px;
+    margin:0;
+}
+
+button{
+    background-color:darkgray;
+    color:azure;
 }
